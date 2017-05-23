@@ -1,4 +1,4 @@
-﻿namespace RemoveStopWords.Base
+﻿namespace WordProcessor.Base
 {
     public abstract class StringProcessorBase
     {

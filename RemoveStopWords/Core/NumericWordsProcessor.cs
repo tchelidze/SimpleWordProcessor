@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using RemoveStopWords.Base;
+using WordProcessor.Base;
 
 namespace RemoveStopWords.Core
 {

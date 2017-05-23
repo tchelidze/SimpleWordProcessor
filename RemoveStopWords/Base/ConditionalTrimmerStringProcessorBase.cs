@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RemoveStopWords.Base
+namespace WordProcessor.Base
 {
     public abstract class ConditionalTrimmerStringProcessorBase : StringProcessorBase
     {

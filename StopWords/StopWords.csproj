@@ -87,9 +87,9 @@
       <Project>{2F5E1073-C836-4B47-8853-359C62322C37}</Project>
       <Name>GeorgianLanguageClasses</Name>
     </ProjectReference>
-    <ProjectReference Include="..\RemoveStopWords\RemoveStopWords.csproj">
+    <ProjectReference Include="..\RemoveStopWords\WordProcessor.csproj">
       <Project>{510BB956-1219-4A2B-8AA8-319E4A15E08B}</Project>
-      <Name>RemoveStopWords</Name>
+      <Name>WordProcessor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

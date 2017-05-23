@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using RemoveStopWords.Base;
+using WordProcessor.Base;
 
 namespace RemoveStopWords.Core
 {

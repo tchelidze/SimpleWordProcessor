@@ -1,4 +1,4 @@
-﻿using RemoveStopWords.Base;
+﻿using WordProcessor.Base;
 
 namespace RemoveStopWords.Core
 {

@@ -3,7 +3,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using RemoveStopWords.Core;
 
-namespace RemoveStopWords.Base
+namespace WordProcessor.Base
 {
     public abstract class TrimmerProcessorBase
     {

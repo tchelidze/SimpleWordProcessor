@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{510BB956-1219-4A2B-8AA8-319E4A15E08B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RemoveStopWords</RootNamespace>
-    <AssemblyName>RemoveStopWords</AssemblyName>
+    <RootNamespace>WordProcessor</RootNamespace>
+    <AssemblyName>WordProcessor</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
